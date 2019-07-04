@@ -1,0 +1,27 @@
+body{
+  background-color: rgba(3, 5, 5, 0.9);
+}
+
+/* main navigation start */
+
+.main-nav{
+  text-align: center;
+  align-content: center;
+}
+
+
+.main-nav ul {
+  list-style-type: none;
+
+}
+
+.main-nav ul li{
+  flex-flow: wrap;
+}
+
+.main-nav ul li a{
+  color: white;
+  text-decoration: none;
+}
+
+/* main navigation section end */
